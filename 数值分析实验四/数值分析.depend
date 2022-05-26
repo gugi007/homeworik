@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653570453 source:d:\codeblocks\homeworkcode\code\ÊýÖµ·ÖÎö\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<cstdio>
+
