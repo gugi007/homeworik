@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1653846033 source:d:\codeblocks\homeworkcode\排序算法效率分析\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<ctime>
+	<cstring>
+	<fstream>
+	<iomanip>
+	"MySort.h"
+
+1653533785 source:d:\codeblocks\homeworkcode\排序算法效率分析\mysort.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	"MySort.h"
+
+1654150057 d:\codeblocks\homeworkcode\排序算法效率分析\mysort.h
+
+1653029745 d:\codeblocks\homeworkcode\排序算法效率分析\mysort.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	"MySort.h"
+
+1653031430 source:d:\codeblocks\homeworkcode\ly\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<ctime>
+	<cstring>
+	<fstream>
+	"MySort.h"
+
+1653031459 d:\codeblocks\homeworkcode\ly\mysort.h
+	"MySort.cpp"
+
+1653031383 d:\codeblocks\homeworkcode\ly\mysort.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	"MySort.h"
+
+1653528376 source:d:\codeblocks\homeworkcode\排序算法效率分析\megersort.cpp
+	<iostream>
+	<ctime>
+	"MySort.h"
+

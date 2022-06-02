@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1653631816 source:d:\codeblocks\homeworkcode\排序算法效率分析\mysort.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	"MySort.h"
+
+1653629338 d:\codeblocks\homeworkcode\排序算法效率分析\mysort.h
+
+1653846033 source:d:\codeblocks\homeworkcode\排序算法效率分析\main.cpp
+	<iostream>
+	<cstdlib>
+	<random>
+	<ctime>
+	<cstring>
+	<fstream>
+	<iomanip>
+	"MySort.h"
+
